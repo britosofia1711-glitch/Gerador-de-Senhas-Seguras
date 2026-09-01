@@ -1,4 +1,4 @@
-# 🔐 Gerador e Analista de Senhas Seguras
+# Gerador e Analista de Senhas Seguras
 
 Aplicação desktop desenvolvida em Python para geração automatizada de senhas personalizáveis, análise em tempo real do nível de força da senha e persistência de dados em arquivo local.
 
